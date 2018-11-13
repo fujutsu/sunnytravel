@@ -1,0 +1,133 @@
+/*
+Theme Name: Traveler Themekiller.com
+Theme URI: http://www.shinetheme.com/traveler
+Author: Shinetheme
+Author URI: http://www.shinetheme.com
+Description:
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: traveler
+Version: 1.1.7
+*/
+/* Images */
+::-webkit-input-placeholder { color:#f00; }
+::-moz-placeholder { color:#f00; } /* firefox 19+ */
+:-ms-input-placeholder { color:#f00; } /* ie */
+input:-moz-placeholder { color:#f00; }
+
+.sticky{
+
+}
+.bypostauthor{
+
+}
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.wp-caption.alignleft,
+img.alignleft {
+    margin: 5px 20px 5px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 10px 5px 0;
+}
+
+figure.wp-caption.alignright,
+img.alignright {
+    margin: 5px 0 5px 20px;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 5px 10px;
+}
+
+img.aligncenter {
+    margin: 5px auto;
+}
+
+img.alignnone {
+    margin: 5px 0;
+}
+
+.wp-caption .wp-caption-text,
+.entry-caption,
+.gallery-caption {
+    color: #220e10;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 300;
+    margin: 0 0 24px;
+}
+
+div.wp-caption.alignright img[class*="wp-image-"] {
+    float: right;
+}
+
+div.wp-caption.alignright .wp-caption-text {
+    padding-left: 10px;
+}
+
+img.wp-smiley,
+.rsswidget img {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+.wp-caption.alignleft + ul,
+.wp-caption.alignleft + ol {
+    list-style-position: inside;
+}
+.TK{
+display: none;
+}
+::-webkit-input-placeholder {color:#000;}
+::-moz-placeholder {color:#000;}
+
+ .of_zayavka h4{ margin-bottom: 30px;}
+
+  .black input{ color: #ffffff !important;}
+
+  #contact_form_pop2 input{
+   max-width: 200px;
+  }
+
+
+  .width_tur{ width: 20%;}
+
+   .to_font{ font-size: 15px;}
+
+
+
+#container {  } 
+#accordion .item { width: 100%; height: 60px; overflow: hidden;   transition: height ease-in-out 500ms; -o-transition: height ease-in-out 500ms; -moz-transition: height ease-in-out 500ms; -webkit-transition: height ease-in-out 500ms;    border: 1px solid #dfd9c3; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;   margin-bottom: 2px; text-align: justify; } 
+#accordion h2 { display: block; height: 60px; line-height: 20px;  padding: 5px; color: #1e1e1e; text-decoration: none;} 
+#accordion p { height: 30px; padding: 5px; } 
+#accordion div:hover{     height: 200px; text-align: justify; } 
+#accordion div:hover h2 {    border-bottom: 3px solid #75d69c; font-weight: bold; }   /* Радиус скругления углов первой секции */ 
+#intro { border-radius: 2px 2px 0 0; }   /* Радиус скругления углов последней секции */ 
+#contact { border-radius: 0 0 3px 3px; } 
+#contact:target { border-radius: 0; }   /* Высоты секций */ 
+#intro:target + p { height: 70px; } 
+#info:target + p { height: 200px; } 
+#contact:target + p { height: 167px; }
+.page-id-5317 footer#main-footer{margin-top:0px !important;}
+
+
+
